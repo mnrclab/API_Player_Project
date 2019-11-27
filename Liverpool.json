@@ -1,0 +1,146 @@
+[
+    {
+        "Name": "Alex Oxlade-Chamberlain",
+        "Position": "Midfielder",
+        "DateBirth": 26,
+        "Nationality": "England"
+    },
+    {
+        "Name": "Mohamed Salah",
+        "Position": "Midfielder",
+        "DateBirth": 27,
+        "Nationality": "Egypt"
+    },
+    {
+        "Name": "James Milner",
+        "Position": "Midfielder",
+        "DateBirth": 33,
+        "Nationality": "England"
+    },
+    {
+        "Name": "Nathaniel Clyne",
+        "Position": "Defender",
+        "DateBirth": 28,
+        "Nationality": "England"
+    },
+    {
+        "Name": "Sadio Mane",
+        "Position": "Midfielder",
+        "DateBirth": 27,
+        "Nationality": "Senegal"
+    },
+    {
+        "Name": "Andrew Robertson",
+        "Position": "Defender",
+        "DateBirth": 25,
+        "Nationality": "Scotland"
+    },
+    {
+        "Name": "Simon Mignolet",
+        "Position": "Goalkeeper",
+        "DateBirth": 31,
+        "Nationality": "Belgium"
+    },
+    {
+        "Name": "Jordan Henderson",
+        "Position": "Centre Midfielder",
+        "DateBirth": 29,
+        "Nationality": "England"
+    },
+    {
+        "Name": "Dejan Lovren",
+        "Position": "Defender",
+        "DateBirth": 30,
+        "Nationality": "Croatia"
+    },
+    {
+        "Name": "Adam Lallana",
+        "Position": "Midfielder",
+        "DateBirth": 31,
+        "Nationality": "England"
+    },
+    {
+        "Name": "Divock Origi",
+        "Position": "Forward",
+        "DateBirth": 24,
+        "Nationality": "Belgium"
+    },
+    {
+        "Name": "Adrian",
+        "Position": "Goalkeeper",
+        "DateBirth": 32,
+        "Nationality": "Spain"
+    },
+    {
+        "Name": "Xherdan Shaqiri",
+        "Position": "Midfielder",
+        "DateBirth": 28,
+        "Nationality": "Switzerland"
+    },
+    {
+        "Name": "Virgil van Dijk",
+        "Position": "Centre Back",
+        "DateBirth": 28,
+        "Nationality": "Netherlands"
+    },
+    {
+        "Name": "Alisson Becker",
+        "Position": "Goalkeeper",
+        "DateBirth": 27,
+        "Nationality": "Brazil"
+    },
+    {
+        "Name": "Joseph Gomez",
+        "Position": "Defender",
+        "DateBirth": 22,
+        "Nationality": "England"
+    },
+    {
+        "Name": "Andy Lonergan",
+        "Position": "Goalkeeper",
+        "DateBirth": 36,
+        "Nationality": "England"
+    },
+    {
+        "Name": "Fabinho",
+        "Position": "Defender",
+        "DateBirth": 26,
+        "Nationality": "Brazil"
+    },
+    {
+        "Name": "Roberto Firmino",
+        "Position": "Midfielder",
+        "DateBirth": 28,
+        "Nationality": "Brazil"
+    },
+    {
+        "Name": "Joel Matip",
+        "Position": "Defender",
+        "DateBirth": 28,
+        "Nationality": "Cameroon"
+    },
+    {
+        "Name": "Georginio Wijnaldum",
+        "Position": "Midfielder",
+        "DateBirth": 29,
+        "Nationality": "Netherlands"
+    },
+    {
+        "Name": "Trent Alexander-Arnold",
+        "Position": "Defender",
+        "DateBirth": 21,
+        "Nationality": "England"
+    },
+    {
+        "Name": "Naby Keïta",
+        "Position": "Midfielder",
+        "DateBirth": 24,
+        "Nationality": "Guinea"
+    },
+    {
+        "Name": "Jürgen Klopp",
+        "Position": "Manager",
+        "DateBirth": 52,
+        "Nationality": "Germany"
+    }
+]
